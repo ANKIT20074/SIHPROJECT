@@ -1,0 +1,9 @@
+backend/
+*.bat
+*.py
+*.log
+node_modules/
+frontend/node_modules/
+server/node_modules/
+.git/
+.system_generated/
